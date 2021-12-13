@@ -1,0 +1,57 @@
+.navbar {
+    border-bottom: 5px solid #dbdbdb;
+    background: white;
+}
+
+.navbar h1 {
+    font-family: 'Fredoka One',cursive;
+    margin-left: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.table_container {
+    margin-top: 20px;
+}
+
+.binatang_table .action_btn {
+    color: #fff;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.binatang_table .remove_btn {
+    background: #dc3545;
+}
+
+.binatang_table .remove_btn:hover {
+    background: #ee7782;
+}
+
+.binatang_table .edit_btn {
+    background: #117a8b;
+}
+
+.binatang_table .edit_btn:hover {
+    background: #3d99a8;
+}
+
+.binatang_table .status_btn {
+    background: #ffc107;
+}
+
+.binatang_table .status_btn:hover{ 
+    background: #ffd24c;
+}
+
+.add_btn {
+    margin-top: 100px;
+}
+
+.search_bar {
+    margin-top: 10px;
+}
+
+.edit_container {
+    margin-top: 80px;
+}
